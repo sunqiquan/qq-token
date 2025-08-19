@@ -1,6 +1,6 @@
 {
   "name": "SunQQ Token",
-  "symbol": "SQT",
+  "symbol": "SQQ",
   "description": "A test token deployed on Solana Devnet using Token-2022",
   "image": "https://raw.githubusercontent.com/sunqiquan/qq-token/main/sqq.png",
   "attributes": [
